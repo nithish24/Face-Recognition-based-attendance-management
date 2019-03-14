@@ -7,15 +7,16 @@ This project is the complete practical implementation of the Face Recogniton bas
 It is the GRAPHICAL USER INTERFACE that has been provided.
 The sample pictures are provided in the Result folder.
 
-DATABASE PART
+**DATABASE PART**
 
 THE COMPLETE database description is provided in the DATABASE-INSTRUCTIONS folder.
-the DATABASE being used is MYSQL.
-each and every query has been tested multiple number of times as it is GUI one doesn't need to get into lower level details.
+the DATABASE being used is in this Project is MYSQL.
+each and every query has been tested multiple number of times. As it is GUI one doesn't need to get into lower level details.
 But before running the project make sure you have the database ready and atleast one entry in the lecturer table.
 the instructions file sufficient enough to resolve any problem.
 
 **IMAGE PROCESSING**
+
 the complete project is built using OPENCV making use of HAAR-CASCADES.
 Classifiers and data folders contain the training XML document.
 If one is not satisfied with the result he can go on to use other training files hence there XML files are also included.
